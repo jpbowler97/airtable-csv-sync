@@ -19,3 +19,7 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local files
+PRESENTATION_SCRIPT.md
+GITHUB_SETUP.md
